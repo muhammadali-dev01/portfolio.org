@@ -342,7 +342,7 @@
         }
         .about-image {
             width: 100%;
-            height: 400px;
+            height: 500px;
             object-fit: cover;
         }
         .experience-badge {
@@ -708,7 +708,7 @@
         /* ========== RESPONSIVE ========== */
         @media (max-width: 991px) {
             .hero-title { font-size: 2.5rem; }
-            .hero-image-wrapper { height: 400px; margin-top: 3rem; }
+            .hero-image-wrapper { height: 500px; margin-top: 3rem; }
             .hero-stats { gap: 2rem; }
             .hero-stat h3 { font-size: 2rem; }
             section { padding: 60px 0; }

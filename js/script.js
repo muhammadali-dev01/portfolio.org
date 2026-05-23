@@ -122,6 +122,7 @@
             { name: 'CSS3', category: 'frontend', icon: 'devicon-css3-plain', level: 90 },
             { name: 'Bootstrap 5', category: 'frontend', icon: 'devicon-bootstrap-plain', level: 90 },
             { name: 'JavaScript', category: 'frontend', icon: 'devicon-javascript-plain', level: 70 },
+            { name: 'React', category: 'frontend', icon: 'devicon-react-plain', level: 60 },
             { name: 'PHP', category: 'backend', icon: 'devicon-php-plain', level: 85 },
             { name: 'Laravel', category: 'backend', icon: 'devicon-laravel-plain', level: 80 },
             { name: 'MySQL', category: 'backend', icon: 'devicon-mysql-plain', level: 80 },
